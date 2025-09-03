@@ -431,4 +431,5 @@ local function SendChatMessage(message)
 end
 
 -- Send the chat message
-SendChatMessage("Thank you for using Blue V4 by scott")
+
+SendChatMessage("Super Ring Parts V5 By scott")
